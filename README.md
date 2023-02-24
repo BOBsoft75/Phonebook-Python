@@ -1,3 +1,3 @@
-﻿# Python-DZ7
+﻿# Phonebook Python
 
 Графическая версия с использованием tkinter не доделана (
